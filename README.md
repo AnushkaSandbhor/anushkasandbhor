@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anushkasandbhor512@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://anushkasandbhor.netlify.app/Anushka%20Resume%20(2).pdf)
+- 📄 Know about my experiences [Resume](https://anushkasandbhor.netlify.app/wp-content/uploads/2023/08/Anushka-CV.pdf)
 
 - 🖥️ Check out my portfolio [Anushka Sandbhor](https://anushkasandbhor.netlify.app/)
 
