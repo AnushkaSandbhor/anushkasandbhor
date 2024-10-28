@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced CSS and JavaScript**
 
-- 💬 Ask me about **WordPress, HTML, CSS, C++, Python**
+- 💬 Ask me about ** HTML, CSS, C++, Python**
 
 - 📫 How to reach me **anushkasandbhor512@gmail.com**
 
