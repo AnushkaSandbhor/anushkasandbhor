@@ -18,7 +18,7 @@ I work on Generative AI for software development, applying large language models
 ### Research
 
 - *Indian Sign Language Recognition Using Holistic Body Pose Estimation and Deep Learning*, Journal of Technology, Vol. 12, Issue 5, May 2024. [Read the paper](https://drive.google.com/file/d/1AGDGMGwmkDj8BMy5j7K9cO-HSOJ3ti9p/view)
-- *Indian Sign Language Recognition Using CNN Inception V3: A Review*, IJRASET, Vol. 12, Issue II, Feb 2024. [DOI 10.22214/ijraset.2024.56887](https://doi.org/10.22214/ijraset.2024.56887)
+- *Indian Sign Language Recognition Using CNN Inception V3: A Review*, IJRASET, Vol. 12, Issue II, Feb 2024. [Read the paper](https://doi.org/10.22214/ijraset.2024.56887)
 
 ### Certification
 
